@@ -5,35 +5,35 @@
 }
 
 body{
-background:#F5F5F5;
-font-family: LATHA;
+  background:#F5F5F5;
+  font-family: LATHA;
 }
 .main{
-display:flex;
-flex-direction: column;
-background:white;
-margin:auto;
-width:60%
+  display:flex;
+  flex-direction: column;
+  background:white;
+  margin:auto;
+  width:60%;
 }
 
 header{
-display:flex;
-width:60%;
-background: white;
+  display:flex;
+  width:60%;
+  background: white;
 }
 
 .allContacts{
-background:white;
-margin-bottom: 30px;
+  background:white;
+  margin-bottom: 30px;
 }
 
 .contact{
-margin-top: 10px;
+  margin-top: 10px;
 }
 
 .n{
-position: relative;
-background: #DCDCDC;
+  position: relative;
+  background: #DCDCDC;
 }
 
 .p{
@@ -42,47 +42,47 @@ background: #DCDCDC;
 }
 
 #addContact{
-border:none;
-background:#7a1616;
-color:white;
-text-transform: uppercase;
-font-weight:bold;
-width:120px;
-height:50px;
+  border:none;
+  background:#7a1616;
+  color:white;
+  text-transform: uppercase;
+  font-weight:bold;
+  width:120px;
+  height:50px;
 }
   
 #srch{
-height:25px;
+  height:25px;
 }
 
 .xButton{
-background: #7a1616;
-border: none;
-text-align:center;
-padding:1px;
-height: 100%;
-color:white;
-position: absolute;
-right: 0px;
+  background: #7a1616;
+  border: none;
+  text-align:center;
+  padding:1px;
+  height: 100%;
+  color:white;
+  position: absolute;
+  right: 0px;
 }
 
 .xButton:hover{
   cursor: pointer;
-  }
+ }
 
 .changeButton{
-background: #7a1616;
-border: none;
-text-align:center;
-padding:1px;
-height: 100%;
-color:white;
-position: absolute;
-right: 0px;
+  background: #7a1616;
+  border: none;
+  text-align:center;
+  padding:1px;
+  height: 100%;
+  color:white;
+  position: absolute;
+  right: 0px;
 }
 
 .hide{
-display: none;
+  display: none;
 }
 
 form{		
@@ -91,34 +91,34 @@ form{
 }
 
 #ADD{
-border:none;
-background:#7a1616;
-color:white;
-text-transform: uppercase;
-font-weight:bold;
-width:120px;
-height:50px;
-margin: auto;
+  border:none;
+  background:#7a1616;
+  color:white;
+  text-transform: uppercase;
+  font-weight:bold;
+  width:120px;
+  height:50px;
+  margin: auto;
 }
 
 form input{
-width: 50%;
+  width: 50%;
 }
 
 .nameField{
-color: #7a1616;
-text-transform: uppercase;
-font-weight:bold;
+  color: #7a1616;
+  text-transform: uppercase;
+  font-weight:bold;
 }
 
 .phoneField{
-color: #7a1616;
-text-transform: uppercase;
-font-weight:bold;	
+  color: #7a1616;
+  text-transform: uppercase;
+  font-weight:bold;	
 }
 
 .border{
-border: 3px solid #7a1616;
+  border: 3px solid #7a1616;
 }
 
 p{
